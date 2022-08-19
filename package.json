@@ -1,0 +1,22 @@
+{
+  "name": "testprojectcie",
+  "version": "1.0.0",
+  "description": "QA Test Project Cie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HafizUsman5436/TestProjectCie.git"
+  },
+  "author": "HafizUsman5436",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HafizUsman5436/TestProjectCie/issues"
+  },
+  "homepage": "https://github.com/HafizUsman5436/TestProjectCie#readme",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
